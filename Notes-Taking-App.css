@@ -10,15 +10,18 @@
     width: 400px;
     height: 400px;
     background-color: white;
+  
+    margin: 10px;
 }
 
 .tool{
     background-color: black;
-    padding: 5px;
+    padding: 5px ;
     color: white;
     width: 100%;
     display: flex;
     justify-content: end;
+
 
 }
 
@@ -40,8 +43,7 @@ font-size: 18px;
     border: 0;
     outline: 0;
 }  
-
-.addBtn{
+#addBtn{
     position: fixed;
     right: 10px;
     top: 10px;
