@@ -1,0 +1,13 @@
+#main{
+    width:100%;
+    min-height: 100vh;
+    background-color: lightgreen;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.note{
+    width: 400px;
+    height: 400px;
+    background-color: white;
+}
